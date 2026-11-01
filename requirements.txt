@@ -1,0 +1,6 @@
+yt-dlp
+faster-whisper
+anthropic
+python-dotenv
+opencv-python-headless<5
+gradio

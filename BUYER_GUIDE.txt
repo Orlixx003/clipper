@@ -1,0 +1,73 @@
+CLIPPER — turn long videos into viral short clips
+==================================================
+
+Thank you for your purchase!
+
+WHAT YOU NEED
+-------------
+- Windows 10 or 11 (64-bit)
+- 8 GB RAM or more (16 GB recommended)
+- About 10 GB of free disk space
+- An NVIDIA graphics card is NOT required (it just makes transcription faster)
+
+
+1. INSTALL (2 minutes)
+----------------------
+1. Unzip "Clipper-Windows.zip" anywhere, for example to your Desktop.
+   (Right-click the zip -> "Extract All...")
+2. Open the "Clipper" folder and double-click "Clipper.exe".
+   - If Windows shows "Windows protected your PC", click "More info" -> "Run anyway".
+     This appears for new apps from small developers. Clipper is safe.
+3. A black window opens (keep it open while you work) and Clipper opens in your browser.
+
+
+2. ACTIVATE (1 minute)
+----------------------
+1. In Clipper, open the "Settings" tab.
+2. Paste the license key from your purchase email and click "Activate".
+
+
+3. CHOOSE THE AI THAT FINDS THE BEST MOMENTS
+--------------------------------------------
+Option A — FREE (runs on your computer):
+  1. Download and install Ollama from https://ollama.com (free).
+  2. In Clipper -> Settings, click "Download AI model" (one time, about 5 GB).
+  3. Done. Every video is now processed for free.
+
+Option B — BEST QUALITY (Claude, pay-as-you-go):
+  1. Create an API key at https://console.anthropic.com (add a few dollars of credit).
+  2. In Clipper -> Settings, choose "Claude", paste the key and click "Save".
+  A one-hour podcast usually costs a few cents. You pay Anthropic directly.
+
+
+4. MAKE CLIPS
+-------------
+1. Go to the "Create clips" tab.
+2. Paste a YouTube / X / Twitch link, or drop a video file.
+3. Choose the number of clips, the format (vertical 9:16 / square / original) and caption style.
+4. Click "Generate clips".
+
+Your clips appear on the right with a virality score, an on-screen hook and a ready-to-post caption.
+"Download all clips (.zip)" saves them in one click.
+All clips are also saved to:  Documents\Clipper
+
+The first run takes longer: Clipper downloads the speech-recognition model once.
+Without an NVIDIA card, a 1-hour video takes roughly 10-30 minutes to transcribe.
+
+
+TIPS
+----
+- Advanced -> "Hook & post language": type English to get English hooks for any video.
+- Advanced -> "Transcription model": "medium" is more accurate, "base" is faster.
+- Running the same video again is fast: the transcript is saved.
+- Only clip videos you own or have permission to use.
+
+
+TROUBLESHOOTING
+---------------
+- A link stops downloading: YouTube changes often. Download the latest Clipper update
+  from your Gumroad library, or download the video yourself and drop the file in.
+- "Ollama is not running": open Ollama from the Start menu, then click "Refresh status".
+- Anything else: take a screenshot of the black window and send it to support.
+
+SUPPORT: Telegram @aiceks
